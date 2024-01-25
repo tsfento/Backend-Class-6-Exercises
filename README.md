@@ -23,3 +23,7 @@ ERD Exercise 5:
 ERD Exercise 6:
 
 ![](erd_exercise_6.png)
+
+ERD Optional Exercise:
+
+![](erd_exercise_optional.png)
